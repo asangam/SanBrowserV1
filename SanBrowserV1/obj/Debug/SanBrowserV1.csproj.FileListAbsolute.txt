@@ -1,0 +1,10 @@
+C:\Users\aSangam\Desktop\SanBrowserV1-4c2c4c2c44820892d46314e848fa5c61faeec7ba\SanBrowserV1\bin\Debug\SanBrowserV1.exe.config
+C:\Users\aSangam\Desktop\SanBrowserV1-4c2c4c2c44820892d46314e848fa5c61faeec7ba\SanBrowserV1\obj\Debug\SanBrowserV1.csprojResolveAssemblyReference.cache
+C:\Users\aSangam\Desktop\SanBrowserV1-4c2c4c2c44820892d46314e848fa5c61faeec7ba\SanBrowserV1\obj\Debug\SanBrowserV1.Form1.resources
+C:\Users\aSangam\Desktop\SanBrowserV1-4c2c4c2c44820892d46314e848fa5c61faeec7ba\SanBrowserV1\obj\Debug\SanBrowserV1.Properties.Resources.resources
+C:\Users\aSangam\Desktop\SanBrowserV1-4c2c4c2c44820892d46314e848fa5c61faeec7ba\SanBrowserV1\obj\Debug\SanBrowserV1.csproj.GenerateResource.Cache
+C:\Users\aSangam\Desktop\SanBrowserV1-4c2c4c2c44820892d46314e848fa5c61faeec7ba\SanBrowserV1\bin\Debug\SanBrowserV1.exe
+C:\Users\aSangam\Desktop\SanBrowserV1-4c2c4c2c44820892d46314e848fa5c61faeec7ba\SanBrowserV1\bin\Debug\SanBrowserV1.pdb
+C:\Users\aSangam\Desktop\SanBrowserV1-4c2c4c2c44820892d46314e848fa5c61faeec7ba\SanBrowserV1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\aSangam\Desktop\SanBrowserV1-4c2c4c2c44820892d46314e848fa5c61faeec7ba\SanBrowserV1\obj\Debug\SanBrowserV1.exe
+C:\Users\aSangam\Desktop\SanBrowserV1-4c2c4c2c44820892d46314e848fa5c61faeec7ba\SanBrowserV1\obj\Debug\SanBrowserV1.pdb

@@ -1,0 +1,151 @@
+[1218/135036.069:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/135142.647:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/135253.469:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/135354.001:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/135502.892:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/135538.013:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 1
+[1218/135538.804:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 5
+[1218/135550.623:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[1218/135550.672:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[1218/135609.145:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=1
+[1218/135609.175:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=2
+[1218/135609.204:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=3
+[1218/135609.234:WARNING:audio_sync_reader.cc(188)] AudioSyncReader::Read timed out, audio glitch count=4
+[1218/135746.567:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 1
+[1218/135746.601:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1218/135746.601:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1218/135746.602:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1218/135805.641:WARNING:spdy_session.cc(2491)] Received WINDOW_UPDATE for invalid stream 9
+[1218/135806.534:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1218/135806.534:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1218/135806.534:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1218/135806.574:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 55
+[1218/135806.610:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 59
+[1218/135806.677:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 57
+[1218/135834.001:ERROR:render_process_host_impl.cc(2077)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+[1218/135856.052:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/135924.215:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 17
+[1218/135925.004:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 23
+[1218/140225.841:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/141515.647:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/141532.569:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/141827.744:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/141828.092:INFO:chrome_scheme_handler.cc(536)] Reguest for unknown chrome resource: chrome://print/foo?
+[1218/141856.298:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/141856.598:INFO:chrome_scheme_handler.cc(536)] Reguest for unknown chrome resource: chrome://print/foo?
+[1218/143157.217:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/144802.341:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/144829.434:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145026.570:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145050.448:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145124.271:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145150.442:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145239.075:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145256.367:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145305.290:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145318.174:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145340.804:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145411.344:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145431.091:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145506.233:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145531.567:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145550.825:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145750.339:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/145936.523:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/150016.241:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/152104.190:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/152154.624:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/152239.232:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/152520.819:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/152558.678:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/152747.771:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/152907.054:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/152937.056:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/152940.638:ERROR:gles2_cmd_decoder.cc(17287)] [.DisplayCompositor-15030238]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1218/152940.639:ERROR:gles2_cmd_decoder.cc(9579)] [.DisplayCompositor-15030238]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1218/152940.642:ERROR:gles2_cmd_decoder.cc(17287)] [.DisplayCompositor-15030238]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1218/152940.642:ERROR:gles2_cmd_decoder.cc(9579)] [.DisplayCompositor-15030238]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1218/152940.642:ERROR:gles2_cmd_decoder.cc(17287)] [.DisplayCompositor-15030238]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1218/152940.643:ERROR:gles2_cmd_decoder.cc(9579)] [.DisplayCompositor-15030238]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1218/152940.643:ERROR:gles2_cmd_decoder.cc(17287)] [.DisplayCompositor-15030238]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1218/152940.644:ERROR:gles2_cmd_decoder.cc(9579)] [.DisplayCompositor-15030238]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1218/152940.645:ERROR:gles2_cmd_decoder.cc(17287)] [.DisplayCompositor-15030238]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1218/152940.646:ERROR:gles2_cmd_decoder.cc(9579)] [.DisplayCompositor-15030238]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1218/152940.646:ERROR:gles2_cmd_decoder.cc(17287)] [.DisplayCompositor-15030238]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1218/152940.653:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 1
+[1218/152940.671:ERROR:gles2_cmd_decoder.cc(9579)] [.DisplayCompositor-15030238]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1218/152940.671:ERROR:gles2_cmd_decoder.cc(17287)] [.DisplayCompositor-15030238]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1218/152940.671:ERROR:gles2_cmd_decoder.cc(9579)] [.DisplayCompositor-15030238]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1218/152940.672:ERROR:gles2_cmd_decoder.cc(17287)] [.DisplayCompositor-15030238]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1218/152940.672:ERROR:gles2_cmd_decoder.cc(9579)] [.DisplayCompositor-15030238]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1218/152940.672:ERROR:gles2_cmd_decoder.cc(17287)] [.DisplayCompositor-15030238]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1218/152940.673:ERROR:gles2_cmd_decoder.cc(9579)] [.DisplayCompositor-15030238]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1218/152940.673:ERROR:gles2_cmd_decoder.cc(17287)] [.DisplayCompositor-15030238]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1218/152940.673:ERROR:gles2_cmd_decoder.cc(9579)] [.DisplayCompositor-15030238]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[1218/153921.334:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/154402.456:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/154427.704:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/154503.353:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/154705.819:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/154903.472:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/154936.313:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/155036.186:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160025.081:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160049.762:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160135.233:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160225.909:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160249.210:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160313.619:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160325.464:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160357.493:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160436.566:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160621.658:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160657.912:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160728.523:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160756.621:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160846.553:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160931.073:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/160953.278:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/161057.776:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/161205.097:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/161441.763:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/161524.422:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/161608.089:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/161731.355:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/161811.579:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/162106.418:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/162146.175:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/162219.174:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/162302.220:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/162327.930:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/162340.036:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/162409.432:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/162420.005:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 27
+[1218/162500.785:WARNING:spdy_session.cc(2491)] Received WINDOW_UPDATE for invalid stream 13
+[1218/162500.786:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 13
+[1218/162631.313:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/162701.413:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/162703.930:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 7
+[1218/162720.798:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/162738.553:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/162802.693:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/163817.761:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/163950.311:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/164037.109:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/164058.465:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 91
+[1218/164357.409:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/164545.869:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/164714.029:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/193208.750:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/193245.264:INFO:chrome_scheme_handler.cc(536)] Reguest for unknown chrome resource: chrome://history/
+[1218/202304.051:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/202315.686:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 1
+[1218/202402.125:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/203231.051:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/203410.970:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/203848.108:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/203918.127:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/203934.453:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/204027.662:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/204206.908:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1218/204300.009:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
